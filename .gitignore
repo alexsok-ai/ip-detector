@@ -1,0 +1,7 @@
+.idea/
+.venv/
+__pycache__/
+.gigaide/
+Thumbs.db
+.env
+
