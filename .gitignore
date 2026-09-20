@@ -4,4 +4,4 @@ __pycache__/
 .gigaide/
 Thumbs.db
 .env
-
+settings.py
